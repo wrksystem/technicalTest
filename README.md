@@ -31,4 +31,4 @@ dart run question03.dart
 Contato
 -------
 
-Para dúvidas ou correções, abra uma issue no repositório ou envie uma mensagem ao autor.
+Para dúvidas ou correções, abra uma issue no repositório pelos meios dispostos no perfil.
